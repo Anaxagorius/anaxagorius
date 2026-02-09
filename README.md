@@ -9,13 +9,13 @@
 
 ## 🚀 About Me
 
-[Brief description about yourself - your role, interests, what you're passionate about]
+24 year veteran of the Canadian Army as a communications specialist. Current student in IT programming at NSCC-COGS
 
 ## 💼 Current Focus
 
-- 🔭 Working on [project name or technology]
-- 🌱 Learning [technologies/skills]
-- 👯 Open to collaborate on [types of projects]
+- 🔭 Working on graduating IT programming. Last semester!!!!!!!!!!!!
+- 🌱 Learning Rust programming language currently.
+- 👯 Open to collaborate on anything!!!!!!
 
 ## 🛠️ Tech Stack
 
