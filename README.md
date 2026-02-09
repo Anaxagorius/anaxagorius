@@ -7,17 +7,17 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 
 24 year veteran of the Canadian Army as a communications specialist. Current student in IT programming at NSCC-COGS
 
-## 💼 Current Focus
+## Current Focus
 
 - 🔭 Working on graduating IT programming. Last semester!!!!!!!!!!!!
 - 🌱 Learning Rust programming language currently.
 - 👯 Open to collaborate on anything!!!!!!
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -28,7 +28,7 @@
 
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -38,12 +38,12 @@
 
 </div>
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 Feel free to reach out for collaborations or just a friendly chat!
 
 ---
 
 <div align="center">
-  <i>⚡ "For Frodo......"</i>
+  <i> "For Frodo......"</i>
 </div>
