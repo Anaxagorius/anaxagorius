@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Tom Burchell!
 
 <div align="center">
   
@@ -45,5 +45,5 @@ Feel free to reach out for collaborations or just a friendly chat!
 ---
 
 <div align="center">
-  <i>⚡ "Your favorite quote or motto here"</i>
+  <i>⚡ "Poor preperation and planning on your part, does not constitute an emergency on mine"</i>
 </div>
