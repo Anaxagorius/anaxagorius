@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋/n
 
-See my portfolio (work in progress) here! https://anaxagorius.github.io/index.html 
+See my portfolio (work in progress) here! https://anaxagorius.github.io/index.html /n
 LinkedIn?....absolutely! https://www.linkedin.com/in/t-b-2252a82ab/ 
 
 
