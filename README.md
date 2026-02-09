@@ -45,5 +45,5 @@ Feel free to reach out for collaborations or just a friendly chat!
 ---
 
 <div align="center">
-  <i>⚡ "For Fordo......"</i>
+  <i>⚡ "For Frodo......"</i>
 </div>
