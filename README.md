@@ -45,5 +45,5 @@ Feel free to reach out for collaborations or just a friendly chat!
 ---
 
 <div align="center">
-  <i>⚡ "Your favorite quote or motto here"</i>
+  <i>⚡ "For Fordo......"</i>
 </div>
