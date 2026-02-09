@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Tom Burchell!
+# Hi there! 👋 I'm [Your Name]
 
 <div align="center">
   
@@ -28,17 +28,15 @@
 
 </div>
 
-
 ## 📊 GitHub Stats
 
 <div align="center">
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anaxagorius&show_icons=true&theme=radical&count_private=true)
+![Your GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Anaxagorius&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anaxagorius&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anaxagorius&layout=compact&theme=radical)
 
 </div>
-
 
 ## 📫 Let's Connect!
 
@@ -47,5 +45,5 @@ Feel free to reach out for collaborations or just a friendly chat!
 ---
 
 <div align="center">
-  <i>⚡ "Poor preperation and planning on your part, does not constitute an emergency on mine"</i>
+  <i>⚡ "Your favorite quote or motto here"</i>
 </div>
