@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+See my portfolio (work in progress) here! https://anaxagorius.github.io/index.html 
+LinkedIn?....absolutely! https://www.linkedin.com/in/t-b-2252a82ab/ 
+
+
 <!--
 **Anaxagorius/anaxagorius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
